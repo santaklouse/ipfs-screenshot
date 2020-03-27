@@ -1,4 +1,4 @@
-![IPFS]
+
 # IPFS screenshot url
 
 Make screenshot and save it to IPFS (like cloudapp but using IPFS). If you're asking why IPFS, you should check out ipfs.io. A simple way to think of IPFS is torrents but accessible through HTTP. 
